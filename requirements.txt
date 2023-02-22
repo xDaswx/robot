@@ -1,0 +1,9 @@
+discord
+requests
+datetime
+psutil
+asyncio
+pytz
+python-dotenv
+colorama
+typing-extensions

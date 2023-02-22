@@ -1,0 +1,12 @@
+{
+    "accounts":[
+        {"Discord_id":"0","Accounts_auth":[
+            {"AccountUsername":"NAME","Stumble_deviceId_1":"0","STUMBLE_ID":"0","FacebookId":"","GoogleId":"","Checked":"True","WinAmount":"500"},
+            {"AccountUsername":"NAME","Stumble_deviceId_1":"0","STUMBLE_ID":"0","FacebookId":"","GoogleId":"","Checked":"True","WinAmount":"500"}
+        ]},
+        {"Discord_id":"0","Accounts_auth":[
+            {"AccountUsername":"NAME","Stumble_deviceId_1":"0","STUMBLE_ID":"0","FacebookId":"","GoogleId":"","Checked":"True","WinAmount":"500"},
+            {"AccountUsername":"NAME","Stumble_deviceId_1":"0","STUMBLE_ID":"0","FacebookId":"","GoogleId":"","Checked":"True","WinAmount":"500"}
+        ]}
+    ]
+}
